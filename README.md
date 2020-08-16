@@ -5,6 +5,6 @@ Este repositorio es un prueba para aprender a utilizar Github y aplicar lo apren
 
 https://www.coursera.org/learn/aprendiendo-programar-python
 
-(https://www.coursera.org/specializations/python-espanol)
+https://www.coursera.org/specializations/python-espanol
 
-(https://www.linkedin.com/learning/github-para-programadores)
+https://www.linkedin.com/learning/github-para-programadores
