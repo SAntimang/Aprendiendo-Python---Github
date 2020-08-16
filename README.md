@@ -1,4 +1,4 @@
-# Aprendiendo Python 
+# Aprendiendo Python y Github
 Este repositorio es un prueba para aprender a utilizar Github y aplicar lo aprendido en los cursos de Coursera de Python (PUC, AUSTRAL)
 
 [Fuentes de Cursos:] 
